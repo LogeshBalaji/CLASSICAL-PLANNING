@@ -1,4 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+# Date: 18/11/2026
+# Name: Logesh B
+# Register Number : 212224110034
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
